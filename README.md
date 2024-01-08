@@ -1,2 +1,2 @@
 # prepcourse
-este es un repositorio de prueba henry
+este es ejemplo de un repositorio de prueba henry
